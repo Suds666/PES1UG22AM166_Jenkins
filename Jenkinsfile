@@ -3,7 +3,7 @@ pipeline {
     
     environment {
         // Define environment variables
-        CPP_FILE = 'main/lab8.cpp'
+        CPP_FILE = 'lab8.cpp'
         EXECUTABLE = 'PES1UG22AM166-1'
     }
     
